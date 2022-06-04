@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Web Development and Open Source.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Open Source projects and Web Development.
-- 📫 Reach me in my website http://joan.codes
+
 
 <!---
 joajimenez/joajimenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
