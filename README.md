@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joan Jimenez.
 - 👀 I’m interested in the Web Development and Open Source.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Open Source projects and Web Development.
 
 
